@@ -10,23 +10,10 @@
 		92F72CE82D84607700173D8E /* Calculadora.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculadora.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		92F72CFA2D84607800173D8E /* Exceptions for "Projetoaula02" folder in "Calculadora" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 92F72CE72D84607700173D8E /* Calculadora */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		92F72CEA2D84607700173D8E /* Projetoaula02 */ = {
+		92F72CEA2D84607700173D8E /* Calculadora */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				92F72CFA2D84607800173D8E /* Exceptions for "Projetoaula02" folder in "Calculadora" target */,
-			);
-			path = Projetoaula02;
+			path = Calculadora;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +32,7 @@
 		92F72CDF2D84607700173D8E = {
 			isa = PBXGroup;
 			children = (
-				92F72CEA2D84607700173D8E /* Projetoaula02 */,
+				92F72CEA2D84607700173D8E /* Calculadora */,
 				92F72CE92D84607700173D8E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				92F72CEA2D84607700173D8E /* Projetoaula02 */,
+				92F72CEA2D84607700173D8E /* Calculadora */,
 			);
 			name = Calculadora;
 			packageProductDependencies = (
